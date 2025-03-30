@@ -17,6 +17,8 @@ wp-apxupx.php
 sgd.php
 */wp-json/wp/v2/users/
 */wp-json/wp/v2/
+/wp-json/wp/v2/
+/wp-json/wp/v2/*
 hidey.php
 bionic.php
 user-new.php
@@ -43,7 +45,6 @@ db-safe-mode.php
 backup_index.php
 readme.txt
 *readme.txt
-/wp-json/wp/v2/*
 ?author=1
 ?author=2
 ?author=3
