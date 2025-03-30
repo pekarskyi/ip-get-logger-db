@@ -12,4 +12,4 @@ If you discover new malicious GET requests, please inform me so that I can add t
 - write to me in [Telegram](https://telegram.im/@sovka7)
 
 ## Update DB
-30-03-2025 - 50 patterns
+30-03-2025 - 130 patterns
