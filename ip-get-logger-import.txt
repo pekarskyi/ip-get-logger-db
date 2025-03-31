@@ -257,7 +257,6 @@ eval-stdin.php
 /chosen.php
 /media.php
 /0z.php
-/admin-ajax.php
 /input.php
 /wp-content/themes/sketch/404.php
 /defaults.php
