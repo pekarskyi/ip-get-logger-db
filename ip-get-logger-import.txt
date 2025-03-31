@@ -237,7 +237,6 @@ eval-stdin.php
 /adminfuns.php7
 /alfanew.php7
 /about.php7
-/admin.php
 /about.php
 /dropdown.php
 /wp-admin/css/
