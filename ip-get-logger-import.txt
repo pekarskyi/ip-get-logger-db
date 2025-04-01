@@ -15,10 +15,8 @@ nf_tracking.php
 wso.php
 wp-apxupx.php
 sgd.php
-*/wp-json/wp/v2/users/
-*/wp-json/wp/v2/
+/wp-json/wp/v2/users/
 /wp-json/wp/v2/
-/wp-json/wp/v2/*
 hidey.php
 bionic.php
 user-new.php
@@ -59,7 +57,6 @@ readme.txt
 shell.php
 /wp-config.php.bak
 /?cmd=ls
-/wp-json/oembed/1.0/embed
 /.env
 /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /PHP/eval-stdin.php
