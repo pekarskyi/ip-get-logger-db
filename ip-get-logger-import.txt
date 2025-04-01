@@ -322,7 +322,6 @@ eval-stdin.php
 /wp-includes/js/tinymce/skins/wordpress/images/index.php
 /worm0.PhP7
 /user.php
-/edit.php
 /wp-includes/js/tinymce/skins/lightgray/img/
 /wp-includes/js/tinymce/skins/lightgray/img/index.php
 /options.php
