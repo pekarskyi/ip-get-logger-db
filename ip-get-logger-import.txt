@@ -761,7 +761,6 @@ eval-stdin.php
 /wp-content/mu-plugins-old/
 /wp-content/uploads/
 /wp-content/upgrade/
-/wp-admin/
 /wp-admin/includes/
 /wp-content/themes/
 /wp-content/plugins/
