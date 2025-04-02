@@ -2,4 +2,5 @@
 /edit.php
 /wp-admin/admin.php?page=ip-get-logger-db
 /wp-admin/admin.php?page=ip-get-logger
+/wp-admin/admin.php?page=ip-get-logger-exclude
 /wp-admin/admin-ajax.php
