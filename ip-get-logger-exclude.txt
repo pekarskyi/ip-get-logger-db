@@ -1,3 +1,4 @@
 &filter_url=
 /wp-admin/admin.php?page=ip-get-logger-db
 /wp-admin/admin.php?page=ip-get-logger
+/wp-admin/admin-ajax.php
