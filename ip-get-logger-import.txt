@@ -771,3 +771,4 @@ eval-stdin.php
 /wp-admin/network/
 /wp-admin/meta/
 /wp-admin/maint/
+/zb_users/

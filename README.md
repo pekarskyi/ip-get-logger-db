@@ -12,5 +12,5 @@ If you discover new malicious GET requests, please inform me so that I can add t
 - write to me in [Telegram](https://telegram.im/@sovka7)
 
 ## Update DB
-- 1.1.0 - 03-04-2025: total 773 patterns
+- 1.1.0 - 03-04-2025: total 774 patterns
 - 1.0.0 - 01-04-2025: total 677 patterns
