@@ -446,7 +446,6 @@ eval-stdin.php
 /footer.php
 /wp-content/mu-plugins/gecko.php
 /wp-content/themes/astra/inc/fm.php
-/wp-admin/update.php
 /packed.php
 /wp-includes/Text/index.php
 /wp-includes/Requests/Utility/cc.php
