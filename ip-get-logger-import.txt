@@ -16,7 +16,6 @@ wso.php
 wp-apxupx.php
 sgd.php
 /wp-json/wp/v2/users/
-/wp-json/wp/v2/
 hidey.php
 bionic.php
 user-new.php
@@ -355,7 +354,6 @@ eval-stdin.php
 /wp-admin/user/chosen.php
 /wp-includes/Text/Diff/Engine/wp-login.php
 /wp-login.php?redirect_to=https%3A%2F%2Finwebpress.com%2Fwp-admin%2Findex.php&reauth=1
-/wp-admin/index.php
 /file.php
 /assets/edit.php
 /wp-includes/fonts/install.php
