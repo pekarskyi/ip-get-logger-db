@@ -763,3 +763,6 @@ eval-stdin.php
 /wp-admin/meta/
 /wp-admin/maint/
 /zb_users/
+/license.txt
+/readme.html
+/wp-config-sample.php
