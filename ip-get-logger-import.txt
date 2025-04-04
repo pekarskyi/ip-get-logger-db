@@ -727,14 +727,11 @@ eval-stdin.php
 /include/
 /admin/editor/
 /files/
-/ru/shop-multilang-ua/
 /shop/
 /template/
 /system/
-/ru/site-analysis/
 /Site/
 /modules/
-/ru/local-lokalnyj-web-server-polnyj-obzor-ustanovka-wordpress/
 /local/
 /vendor/
 /Public/
@@ -743,7 +740,6 @@ eval-stdin.php
 /vendor/phpunit/phpunit/src/Util/PHP/
 /assets/
 /images/
-/ru/admin-menu-editor-redaktiruem-menyu-v-adminke-wordpress/
 /admin/
 /Admin/uploads/
 /admin/uploads/
