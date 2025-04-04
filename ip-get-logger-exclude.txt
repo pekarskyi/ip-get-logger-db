@@ -1,3 +1,4 @@
 &filter_url=
 /edit.php
 /.well-known/traffic-advice
+/wp-content/cache/min/
