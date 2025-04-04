@@ -72,7 +72,6 @@ eval-stdin.php
 /?p=system("ls")
 /wp-admin/load-styles.php?c=1&dir=ltr
 /wp-admin/includes/plugin.php
-/wp-json/wp/v2/posts
 /wp-admin/customize.php?theme=
 /wp-admin/options.php
 /wp-admin/admin.php?page=wp-security-scan  
@@ -385,7 +384,6 @@ eval-stdin.php
 /wp-admin/network/shell.php
 /wp-admin/includes/cong.php
 /wp-includes/html-api/chosen.php
-/wp-admin/admin-post.php
 /wp-includes/css/wp-conflg.php
 /wp-content/plugins/Cache/footer.php
 /wp-content/themes/seotheme/classwithtostring.php
