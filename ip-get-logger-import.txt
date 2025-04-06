@@ -766,3 +766,5 @@ eval-stdin.php
 /license.txt
 /readme.html
 /wp-config-sample.php
+&reauth=1
+/.well-known/old/

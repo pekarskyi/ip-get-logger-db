@@ -12,4 +12,4 @@ If you discover new malicious GET requests, please inform me so that I can add t
 - write to me in [Telegram](https://telegram.im/@sovka7)
 
 ## Update DB
-Total 768 patterns
+Total 770 patterns
