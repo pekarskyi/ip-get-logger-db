@@ -2,3 +2,6 @@
 /edit.php
 /.well-known/traffic-advice
 /wp-content/cache/min/
+/wptelegram/
+/wordpress.org/
+/developer.wordpress.org/
