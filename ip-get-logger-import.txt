@@ -743,7 +743,6 @@ eval-stdin.php
 /admin/uploads/
 /upload/
 /uploads/
-/.well-known/
 /.well-knownold/
 /cgi-bin/
 /wp-includes/Text/Diff/Renderer/

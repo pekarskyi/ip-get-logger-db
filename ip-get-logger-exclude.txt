@@ -1,6 +1,7 @@
 &filter_url=
 /edit.php
 /.well-known/traffic-advice
+/.well-known/assetlinks.json
 /wp-content/cache/min/
 /wptelegram/
 /wordpress.org/
