@@ -6,3 +6,4 @@
 /wptelegram/
 /wordpress.org/
 /developer.wordpress.org/
+/wp-admin/post.php?post=
