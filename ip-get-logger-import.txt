@@ -433,7 +433,6 @@ eval-stdin.php
 /wp-admin/css/colors/blue/moon.php
 /ALFA_DATA/
 /ALFA_DATA/index.php
-/post.php
 /fw.php
 /config.php
 /wp-includes/js/codemirror/
