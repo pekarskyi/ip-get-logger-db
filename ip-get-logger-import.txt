@@ -184,7 +184,6 @@
 /actuator/health
 /actuator/metrics
 /adm/index.php
-/admin
 /admin-console
 /admin-dev/
 /admin.aspx
@@ -692,7 +691,6 @@
 /upload/wp-info.php
 /uploads/
 /uploads/test.php
-/user
 /user.php
 /user/login
 /user/register
