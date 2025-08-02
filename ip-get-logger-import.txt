@@ -259,7 +259,6 @@
 /application.yml
 /application/configs/application.ini
 /appsettings.json
-/assets/
 /assets/admin.php
 /assets/edit.php
 /assets/images/
