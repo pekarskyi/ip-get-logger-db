@@ -837,7 +837,6 @@
 /wp-config.php.bak
 /wp-configs.php
 /wp-consar.php
-/wp-content/
 /wp-content/about.php
 /wp-content/admin.php
 /wp-content/banners/about.php
