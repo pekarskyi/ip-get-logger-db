@@ -915,7 +915,6 @@
 /wp-content/smaxx.php
 /wp-content/style-css.php
 /wp-content/sx.php
-/wp-content/themes/
 /wp-content/themes/aahana/json.php
 /wp-content/themes/about.php
 /wp-content/themes/astra/inc/fm.php
