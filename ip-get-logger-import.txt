@@ -681,7 +681,6 @@
 /templates/beez3/
 /test.php
 /test/null
-/themes.php
 /tmp/
 /tmp/config.json
 /tmp/jaws
@@ -690,10 +689,7 @@
 /typo3/
 /typo3conf/ext/
 /undefined
-/update.php
 /update/
-/updates.php
-/upgrade.php
 /upload.php
 /upload/
 /upload/image/
@@ -733,17 +729,7 @@
 /wordpress/wp-includes/wp-config-sample.php
 /worm0.PhP7
 /wp-2019.php
-/wp-admin/
 /wp-admin/admin-ajax.php?action=revslider_show_image&img=../../wp-config.php  
-/wp-admin/admin-post.php
-/wp-admin/admin-post.php?action=deleteplugin&plugin=  
-/wp-admin/admin.php?page=wordfence_scan  
-/wp-admin/admin.php?page=wp-cerber  
-/wp-admin/admin.php?page=wp-dbmanager  
-/wp-admin/admin.php?page=wp-security-scan  
-/wp-admin/admin.php?page=wpseo_dashboard  
-/wp-admin/ajax-actions.php
-/wp-admin/autoload_classmap.php
 /wp-admin/byp.php
 /wp-admin/chosen.php
 /wp-admin/classwithtostring.php
@@ -769,7 +755,6 @@
 /wp-admin/css/index.php
 /wp-admin/css/sx.php
 /wp-admin/css/wp-conflg.php
-/wp-admin/customize.php?theme=
 /wp-admin/customize.php?theme=../../wp-config.php  
 /wp-admin/dropdown.php
 /wp-admin/edit-comments.php?page=akismet-admin  
@@ -851,7 +836,6 @@
 /wp-admin/user/index.php
 /wp-admin/user/sx.php
 /wp-admin/user/xmrlpc.php
-/wp-admin/users.php
 /wp-admin/wp-conflg.php
 /wp-admin/xmrlpc.php
 /wp-config-sample.php
