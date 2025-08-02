@@ -6,3 +6,5 @@
 /wptelegram/
 /wordpress.org/
 /developer.wordpress.org/
+/admin.php?page=ip-get-logger
+/admin.php?page=ip-get-logger-db
