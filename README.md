@@ -8,7 +8,7 @@ If you discover new malicious GET requests, please inform me so that I can add t
 ## Report a new malicious request:
 
 - on [Github - Issues - New issue](https://github.com/pekarskyi/ip-get-logger/issues)
-- send me an email: inwebpress@gmail.com
+- send me an email: dizer7@gmail.com
 - write to me in [Telegram](https://telegram.im/@sovka7)
 
 ## Update DB
