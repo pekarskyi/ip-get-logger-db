@@ -13,4 +13,4 @@ If you discover new malicious GET requests, please inform me so that I can add t
 
 ## Update DB
 - Total patterns - 1279
-- Exclude patterns - 8
+- Exclude patterns - 10
