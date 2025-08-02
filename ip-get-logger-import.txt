@@ -825,10 +825,7 @@
 /wp-admin/repeater.php
 /wp-admin/setup-config.php
 /wp-admin/smaxx.php
-/wp-admin/sx.php
-/wp-admin/tools.php
-/wp-admin/tools.php?page=backup_manager  
-/wp-admin/upgrade.php
+/wp-admin/sx.php 
 /wp-admin/user/
 /wp-admin/user/admin.php
 /wp-admin/user/chosen.php
