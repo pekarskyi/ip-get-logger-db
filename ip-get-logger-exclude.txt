@@ -9,3 +9,4 @@
 /admin.php?page=ip-get-logger
 /admin.php?page=ip-get-logger-db
 /admin.php?page=ip-get-logger-exclude
+/wp-admin/admin-ajax.php
