@@ -10,3 +10,8 @@
 /admin.php?page=ip-get-logger-db
 /admin.php?page=ip-get-logger-exclude
 /wp-admin/admin-ajax.php
+/autosaves?_locale=user
+?context=edit&_locale=user
+name&_locale=user
+locale=user
+action=edit&message=
